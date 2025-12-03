@@ -1,0 +1,7 @@
+Models/
+Datasets/
+output/
+sft_cot_model/
+.autodl/
+__pycache__/
+*.pyc
